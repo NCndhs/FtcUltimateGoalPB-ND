@@ -1,0 +1,31 @@
+[2021-08-31 15:15:05.195] [INFO   ] RobotCommonLog Closing log and writing out the last 1 entries on the queue 
+[2021-08-31 15:25:05.915] [INFO   ] RobotCommonLog Closing log and writing out the last 1 entries on the queue 
+[2021-08-31 15:25:05.918] [INFO   ] RobotCommonLog Shutting down log 
+[2021-08-31 15:26:58.294] [CONFIG ] FTCAuto FTCAuto constructor 
+[2021-08-31 15:26:58.347] [CONFIG ] RobotActionXML Extracting data from RobotAction.xml for OpMode TEST 
+[2021-08-31 15:26:58.356] [CONFIG ] FTCAuto Lowest logging level FINEST 
+[2021-08-31 15:26:58.373] [CONFIG ] FTCAuto FTCAuto construction complete 
+[2021-08-31 15:27:00.996] [INFO   ] FTCAuto At start 
+[2021-08-31 15:27:00.997] [INFO   ] FTCAuto OpMode: TEST, Alliance: RED 
+[2021-08-31 15:27:01.000] [FINE   ] FTCAuto Executing FTCAuto command FORWARD_BY_TIME 
+[2021-08-31 15:27:04.009] [FINE   ] FTCAuto Executing FTCAuto command SLEEP 
+[2021-08-31 15:27:04.017] [FINE   ] FTCAuto Pause by 1000 milliseconds 
+[2021-08-31 15:27:05.022] [FINE   ] FTCAuto Executing FTCAuto command REVERSE_BY_TIME 
+[2021-08-31 15:27:08.030] [INFO   ] FTCAuto Exiting FTCAuto 
+[2021-08-31 15:27:08.030] [INFO   ] RobotCommonLog Closing log and writing out the last 1 entries on the queue 
+[2021-08-31 15:27:08.031] [INFO   ] RobotCommonLog Shutting down log 
+[2021-08-31 15:29:39.969] [CONFIG ] FTCAuto FTCAuto constructor 
+[2021-08-31 15:29:40.012] [CONFIG ] RobotActionXML Extracting data from RobotAction.xml for OpMode TEST 
+[2021-08-31 15:29:40.020] [CONFIG ] FTCAuto Lowest logging level FINEST 
+[2021-08-31 15:29:40.039] [CONFIG ] FTCAuto FTCAuto construction complete 
+[2021-08-31 15:29:42.354] [INFO   ] FTCAuto At start 
+[2021-08-31 15:29:42.359] [INFO   ] FTCAuto OpMode: TEST, Alliance: RED 
+[2021-08-31 15:29:42.360] [FINE   ] FTCAuto Executing FTCAuto command FORWARD_BY_TIME 
+[2021-08-31 15:29:45.368] [FINE   ] FTCAuto Executing FTCAuto command SLEEP 
+[2021-08-31 15:29:45.376] [FINE   ] FTCAuto Pause by 1000 milliseconds 
+[2021-08-31 15:29:46.381] [FINE   ] FTCAuto Executing FTCAuto command REVERSE_BY_TIME 
+[2021-08-31 15:29:49.391] [INFO   ] FTCAuto Exiting FTCAuto 
+[2021-08-31 15:29:49.392] [INFO   ] RobotCommonLog Closing log and writing out the last 1 entries on the queue 
+[2021-08-31 15:29:49.393] [INFO   ] RobotCommonLog Shutting down log 
+[2021-08-31 15:32:34.787] [INFO   ] RobotCommonLog Closing log and writing out the last 1 entries on the queue 
+[2021-08-31 15:32:34.789] [INFO   ] RobotCommonLog Shutting down log 

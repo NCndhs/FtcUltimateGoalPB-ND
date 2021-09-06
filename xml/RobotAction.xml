@@ -1,0 +1,26 @@
+<RobotAction>
+  <OpMode id="TEST">
+    <parameters>
+      <lowest_logging_level>vv</lowest_logging_level>
+    </parameters>
+    <actions>
+
+      <FORWARD_BY_TIME>
+        <seconds>3.0</seconds>
+        <velocity>0.5</velocity>
+      </FORWARD_BY_TIME>
+
+      <SLEEP>
+        <ms>1000</ms>
+      </SLEEP>
+
+      <REVERSE_BY_TIME>
+        <seconds>3.0</seconds>
+        <velocity>-0.5</velocity>
+      </REVERSE_BY_TIME>
+
+
+    </actions>
+  </OpMode>
+
+</RobotAction>
